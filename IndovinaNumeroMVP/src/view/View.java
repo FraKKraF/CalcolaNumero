@@ -17,9 +17,9 @@ import javax.swing.JButton;
 public class View extends JFrame {
 
 	private JPanel contentPane;
-	private JTextField textField;
+	public JTextField insNumero;
 	private JButton btnInvia;
-	private JLabel lblTentativi;
+	public JLabel lblTentativi;
 
 	/**
 	 * Launch the application.
@@ -57,15 +57,15 @@ public class View extends JFrame {
 		lblNumero.setBounds(94, 13, 230, 37);
 		contentPane.add(lblNumero);
 
-		lblTentativi = new JLabel("Tentativi:");
+		lblTentativi = new JLabel(" Tentativi");
 		lblTentativi.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		lblTentativi.setBounds(158, 63, 103, 23);
 		contentPane.add(lblTentativi);
 
-		textField = new JTextField();
-		textField.setBounds(145, 113, 116, 22);
-		contentPane.add(textField);
-		textField.setColumns(10);
+		insNumero = new JTextField();
+		insNumero.setBounds(145, 113, 116, 22);
+		contentPane.add(insNumero);
+		insNumero.setColumns(10);
 
 		btnInvia = new JButton("Invia");
 		btnInvia.setBounds(152, 172, 97, 25);
@@ -77,7 +77,7 @@ public class View extends JFrame {
 	}
 	
 	public JTextField getTextField() {
-		return textField;
+		return insNumero;
 	}
 	
 

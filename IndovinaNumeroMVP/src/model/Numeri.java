@@ -1,15 +1,14 @@
 package model;
 
-import java.util.Random;
-
 public class Numeri {
 	private int numero;
-	private int min = 0;
-	private int max = 50;
 	private int tentativi;
+	private int min = 1;
+	private int max = 50;
+	int range = max-min;
 
 	public Numeri() {
-		numero=(int)Math.floor(Math.random()*(max-min+1)+min);
+		numero = (int)Math.floor(Math.random()*range)-min;
 		tentativi=5;
 	}
 	public int getNumero() {
@@ -20,8 +19,9 @@ public class Numeri {
 	}
 	
 	public int diminuisciTentativi() {
-		return tentativi --;
+		return --tentativi;
 	}
+	
 }
 
 
