@@ -1,11 +1,21 @@
 package model;
 
+import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class Numeri {
 	private int numero;
 	private int tentativi;
 	private int min = 1;
 	private int max = 50;
-	int range = max-min;
+	private int range = max-min;
+	private String messaggio;
+	private String ora;
+	
+	DateFormat df = new SimpleDateFormat("yyyy/MM/dd - HH.mm.ss.SSS ");
+	Date data = new Date();
 
 	public Numeri() {
 		numero = (int)Math.floor(Math.random()*range)-min;
@@ -18,10 +28,17 @@ public class Numeri {
 		return tentativi;
 	}
 	
+	public String getMessaggio() {
+		return messaggio;
+	}
+	
 	public int diminuisciTentativi() {
 		return --tentativi;
 	}
 	
+	public String getOra() {
+		return ora = df.format(data); 
+	}
 }
 
 

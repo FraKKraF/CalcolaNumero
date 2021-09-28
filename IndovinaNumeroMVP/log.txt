@@ -1,0 +1,30 @@
+2021/09/28 - 12.06.27.839 Inizio del gioco
+2021/09/28 - 12.06.27.839 L'utente ha provato ad indovinare il numero, inserendo il 25
+2021/09/28 - 12.06.27.839 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.06.27.839 L'utente ha provato ad indovinare il numero, inserendo il 12
+2021/09/28 - 12.06.27.839 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.06.27.839 L'utente ha provato ad indovinare il numero, inserendo il 20
+2021/09/28 - 12.06.27.839 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.06.27.839 L'utente ha provato ad indovinare il numero, inserendo il 16
+2021/09/28 - 12.06.27.839 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.06.27.839 L'utente ha provato ad indovinare il numero, inserendo il 14
+2021/09/28 - 12.06.27.839 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.06.27.839 L'utente ha finito tutti i tentativi, l'utente ha perso
+
+2021/09/28 - 12.06.58.654 Inizio del gioco
+2021/09/28 - 12.06.58.654 L'utente ha provato ad indovinare il numero, inserendo il 25
+2021/09/28 - 12.06.58.654 L'utente ha indovinato il numero, l'utente ha vinto
+
+2021/09/28 - 12.07.15.403 Inizio del gioco
+2021/09/28 - 12.07.15.403 L'utente ha provato ad indovinare il numero, inserendo il 1
+2021/09/28 - 12.07.15.403 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.07.15.403 L'utente ha provato ad indovinare il numero, inserendo il 2
+2021/09/28 - 12.07.15.403 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.07.15.403 L'utente ha provato ad indovinare il numero, inserendo il 3
+2021/09/28 - 12.07.15.403 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.07.15.403 L'utente ha provato ad indovinare il numero, inserendo il 4
+2021/09/28 - 12.07.15.403 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.07.15.403 L'utente ha provato ad indovinare il numero, inserendo il 69
+2021/09/28 - 12.07.15.403 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.07.15.403 L'utente ha finito tutti i tentativi, l'utente ha perso
+
