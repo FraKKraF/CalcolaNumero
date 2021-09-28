@@ -59,7 +59,7 @@ public class View extends JFrame {
 
 		lblTentativi = new JLabel(" Tentativi");
 		lblTentativi.setFont(new Font("Tahoma", Font.PLAIN, 20));
-		lblTentativi.setBounds(158, 63, 103, 23);
+		lblTentativi.setBounds(158, 77, 103, 23);
 		contentPane.add(lblTentativi);
 
 		insNumero = new JTextField();
@@ -70,6 +70,11 @@ public class View extends JFrame {
 		btnInvia = new JButton("Invia");
 		btnInvia.setBounds(152, 172, 97, 25);
 		contentPane.add(btnInvia);
+		
+		JLabel lblNewLabel = new JLabel("Da 1 a 50");
+		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 20));
+		lblNewLabel.setBounds(158, 47, 91, 17);
+		contentPane.add(lblNewLabel);
 	}
 	
 	public JLabel getLblTentativi() {
@@ -79,6 +84,4 @@ public class View extends JFrame {
 	public JTextField getTextField() {
 		return insNumero;
 	}
-	
-
 }
