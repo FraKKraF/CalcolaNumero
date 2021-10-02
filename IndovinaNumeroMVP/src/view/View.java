@@ -68,13 +68,17 @@ public class View extends JFrame {
 		insNumero.setColumns(10);
 
 		btnInvia = new JButton("Invia");
-		btnInvia.setBounds(152, 172, 97, 25);
+		btnInvia.setBounds(94, 172, 97, 25);
 		contentPane.add(btnInvia);
 		
-		JLabel lblNewLabel = new JLabel("Da 1 a 50");
+		JLabel lblNewLabel = new JLabel("Da 0 a 50");
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		lblNewLabel.setBounds(158, 47, 91, 17);
 		contentPane.add(lblNewLabel);
+		
+		JButton btnNewButton = new JButton("Mostra log");
+		btnNewButton.setBounds(227, 172, 97, 25);
+		contentPane.add(btnNewButton);
 	}
 	
 	public JLabel getLblTentativi() {

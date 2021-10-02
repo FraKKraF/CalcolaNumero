@@ -19,6 +19,14 @@ public class Numeri {
 
 	public Numeri() {
 		numero = (int)Math.floor(Math.random()*range)-min;
+		//numero = 0;
+		//numero = 51;
+		if(numero == 0) {
+			numero = (int)Math.floor(Math.random()*range)-min;
+		}else if(numero > 50) {
+			numero = (int)Math.floor(Math.random()*range)-min;
+		}
+		
 		tentativi=5;
 	}
 	public int getNumero() {

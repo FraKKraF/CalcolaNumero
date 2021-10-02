@@ -27,4 +27,79 @@
 2021/09/28 - 12.07.15.403 L'utente ha provato ad indovinare il numero, inserendo il 69
 2021/09/28 - 12.07.15.403 L'utente ha inserito un numero più grande rispetto a quello da indovinare
 2021/09/28 - 12.07.15.403 L'utente ha finito tutti i tentativi, l'utente ha perso
+2021/09/28 - 12.52.17.166 Inizio del gioco
+2021/09/28 - 12.58.56.506 Inizio del gioco
+2021/09/28 - 12.58.56.506 L'utente ha provato ad indovinare il numero, inserendo il 25
+2021/09/28 - 12.58.56.506 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.58.56.506 L'utente ha provato ad indovinare il numero, inserendo il 12
+2021/09/28 - 12.58.56.506 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.58.56.506 L'utente ha provato ad indovinare il numero, inserendo il 16
+2021/09/28 - 12.58.56.506 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.58.56.506 L'utente ha provato ad indovinare il numero, inserendo il 14
+2021/09/28 - 12.58.56.506 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.58.56.506 L'utente ha provato ad indovinare il numero, inserendo il 15
+2021/09/28 - 12.58.56.506 L'utente ha indovinato il numero, l'utente ha vinto
 
+----------------------------------------------------------------------------------------------------
+
+2021/09/28 - 12.59.28.632 Inizio del gioco
+2021/09/28 - 12.59.28.632 L'utente ha provato ad indovinare il numero, inserendo il 22
+2021/09/28 - 12.59.28.632 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.59.28.632 L'utente ha provato ad indovinare il numero, inserendo il 50
+2021/09/28 - 12.59.28.632 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.59.28.632 L'utente ha provato ad indovinare il numero, inserendo il 40
+2021/09/28 - 12.59.28.632 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/09/28 - 12.59.28.632 L'utente ha provato ad indovinare il numero, inserendo il 31
+2021/09/28 - 12.59.28.632 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.59.28.632 L'utente ha provato ad indovinare il numero, inserendo il 33
+2021/09/28 - 12.59.28.632 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/09/28 - 12.59.28.632 L'utente ha finito tutti i tentativi, l'utente ha perso
+
+----------------------------------------------------------------------------------------------------
+
+2021/10/02 - 10.36.23.775 
+Inizio del gioco
+2021/10/02 - 10.36.23.775 L'utente ha provato ad indovinare il numero, inserendo il 1
+2021/10/02 - 10.36.23.775 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/10/02 - 10.36.23.775 L'utente ha provato ad indovinare il numero, inserendo il 25
+2021/10/02 - 10.36.23.775 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.36.23.775 L'utente ha provato ad indovinare il numero, inserendo il 30
+2021/10/02 - 10.36.23.775 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.36.23.775 L'utente ha provato ad indovinare il numero, inserendo il 27
+2021/10/02 - 10.36.23.775 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.36.23.775 L'utente ha provato ad indovinare il numero, inserendo il 23
+2021/10/02 - 10.36.23.775 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.36.23.775 L'utente ha finito tutti i tentativi, l'utente ha perso
+
+----------------------------------------------------------------------------------------------------
+2021/10/02 - 10.37.22.929 
+Inizio del gioco
+2021/10/02 - 10.37.22.929 L'utente ha provato ad indovinare il numero, inserendo il 25
+2021/10/02 - 10.37.22.929 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.37.22.929 L'utente ha provato ad indovinare il numero, inserendo il 0
+2021/10/02 - 10.37.22.929 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/10/02 - 10.37.22.929 L'utente ha provato ad indovinare il numero, inserendo il 12
+2021/10/02 - 10.37.22.929 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.37.22.929 L'utente ha provato ad indovinare il numero, inserendo il 6
+2021/10/02 - 10.37.22.929 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/10/02 - 10.37.22.929 L'utente ha provato ad indovinare il numero, inserendo il 8
+2021/10/02 - 10.37.22.929 L'utente ha inserito un numero più piccolo rispetto a quello da indvinare
+2021/10/02 - 10.37.22.929 L'utente ha finito tutti i tentativi, l'utente ha perso
+
+----------------------------------------------------------------------------------------------------
+2021/10/02 - 10.39.05.347 
+Inizio del gioco
+2021/10/02 - 10.39.05.347 L'utente ha provato ad indovinare il numero, inserendo il 50
+2021/10/02 - 10.39.05.347 L'utente ha indovinato il numero, l'utente ha vinto
+
+----------------------------------------------------------------------------------------------------
+2021/10/02 - 10.39.17.223 
+Inizio del gioco
+2021/10/02 - 10.39.17.223 L'utente ha provato ad indovinare il numero, inserendo il 25
+2021/10/02 - 10.39.17.223 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.39.17.223 L'utente ha provato ad indovinare il numero, inserendo il 12
+2021/10/02 - 10.39.17.223 L'utente ha inserito un numero più grande rispetto a quello da indovinare
+2021/10/02 - 10.39.17.223 L'utente ha provato ad indovinare il numero, inserendo il 6
+2021/10/02 - 10.39.17.223 L'utente ha indovinato il numero, l'utente ha vinto
+
+----------------------------------------------------------------------------------------------------

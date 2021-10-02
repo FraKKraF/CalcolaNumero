@@ -19,7 +19,7 @@ public class Controller implements ActionListener {
 		this.n = n;
 		this.v = v;
 		this.l = l;
-		l.creaLog("" + n.getOra() + "Inizio del gioco\n");
+		l.creaLog("" + n.getOra() + "\nInizio del gioco\n");
 	}
 
 	@Override
@@ -30,7 +30,7 @@ public class Controller implements ActionListener {
 			String n1 = v.insNumero.getText();
 			l.creaLog("" + n.getOra() + "L'utente ha provato ad indovinare il numero, inserendo il "+ v.insNumero.getText()+"\n");
 			try {
-				num = Integer.parseInt(n1);
+				num = Integer.parseInt(n1);	
 				if (num < n.getNumero() && v.insNumero.getText() != "") {
 					v.getLblTentativi().setText("Tentativi: " + n.diminuisciTentativi());
 					JOptionPane.showMessageDialog(null, "Il numero è più grande");
@@ -45,6 +45,8 @@ public class Controller implements ActionListener {
 				} else {
 					JOptionPane.showMessageDialog(null, "Hai vinto!!");
 					l.creaLog("" + n.getOra() + "L'utente ha indovinato il numero, l'utente ha vinto\n\n");
+					l.creaLog("" + "----------------------------------------------------------------------------------------------------\n");
+
 					System.exit(0);
 				}
 				if (n.getTentativi() != 0) {
@@ -52,6 +54,8 @@ public class Controller implements ActionListener {
 				} else {
 					JOptionPane.showMessageDialog(null, "Hai finito i tentativi");
 					l.creaLog("" + n.getOra() + "L'utente ha finito tutti i tentativi, l'utente ha perso\n\n");
+					l.creaLog("" + "----------------------------------------------------------------------------------------------------\n");
+
 					System.exit(0);
 				}
 			} catch (Exception e) {
