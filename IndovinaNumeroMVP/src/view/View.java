@@ -45,6 +45,7 @@ public class View extends JFrame {
 	 * Create the frame.
 	 */
 	public View() {
+		setTitle("Indovina numero\r\n");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
@@ -71,7 +72,7 @@ public class View extends JFrame {
 		btnInvia.setBounds(94, 172, 97, 25);
 		contentPane.add(btnInvia);
 		
-		JLabel lblNewLabel = new JLabel("Da 0 a 50");
+		JLabel lblNewLabel = new JLabel("Da 1 a 50");
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		lblNewLabel.setBounds(158, 47, 91, 17);
 		contentPane.add(lblNewLabel);
