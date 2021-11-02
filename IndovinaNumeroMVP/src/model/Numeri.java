@@ -1,9 +1,12 @@
 package model;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Scanner;
 
 public class Numeri {
 	private int numero;
@@ -13,7 +16,7 @@ public class Numeri {
 	private int range = max-min;
 	private String messaggio;
 	private String ora;
-	
+    
 	DateFormat df = new SimpleDateFormat("yyyy/MM/dd - HH.mm.ss.SSS ");
 	Date data = new Date();
 
@@ -26,9 +29,9 @@ public class Numeri {
 		}else if(numero > 50) {
 			numero = (int)Math.floor(Math.random()*range)-min;
 		}
-		
 		tentativi=5;
 	}
+        
 	public int getNumero() {
 		return numero;
 	}

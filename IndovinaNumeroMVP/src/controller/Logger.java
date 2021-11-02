@@ -1,10 +1,11 @@
 package controller;
 
+import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 
 public class Logger {
-
+	
 	public String creaLog(String messaggio) {
 		FileWriter fw = null;
 		try {
@@ -19,6 +20,7 @@ public class Logger {
 
 	public void mostraLog() {
 		FileReader fr = null;
+
 		try {
 			fr = new FileReader("log.txt");
 			int i = 0;

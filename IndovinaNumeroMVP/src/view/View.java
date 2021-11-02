@@ -20,6 +20,7 @@ public class View extends JFrame {
 	public JTextField insNumero;
 	private JButton btnInvia;
 	public JLabel lblTentativi;
+	public JButton btnLog;
 
 	/**
 	 * Launch the application.
@@ -77,9 +78,9 @@ public class View extends JFrame {
 		lblNewLabel.setBounds(158, 47, 91, 17);
 		contentPane.add(lblNewLabel);
 		
-		JButton btnNewButton = new JButton("Mostra log");
-		btnNewButton.setBounds(227, 172, 97, 25);
-		contentPane.add(btnNewButton);
+		btnLog = new JButton("Mostra log");
+		btnLog.setBounds(227, 172, 97, 25);
+		contentPane.add(btnLog);
 	}
 	
 	public JLabel getLblTentativi() {

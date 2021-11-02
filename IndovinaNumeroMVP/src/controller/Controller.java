@@ -63,6 +63,8 @@ public class Controller implements ActionListener {
 				l.creaLog("" + n.getOra() + "L'utente non ha inserito nessun numero\n");
 			}
 
+		}else if(arg0.getActionCommand().equalsIgnoreCase("Mostra log")) {
+		 l.mostraLog(); 
 		}
 
 	}
